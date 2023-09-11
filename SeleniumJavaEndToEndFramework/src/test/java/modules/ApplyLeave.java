@@ -40,6 +40,19 @@ public class ApplyLeave  {
 	}
 	
 	
+	@Test
+	public void newTestCase()
+	{
+		System.out.println("GIT HUB TESTCASE");
+	}
+	
+	@Test
+	public void newTestCaseB()
+	{
+		System.out.println("GIT HUB TESTCASE B");
+	}
+	
+	
 	@AfterClass
 	public void closeBrowser()
 	{
