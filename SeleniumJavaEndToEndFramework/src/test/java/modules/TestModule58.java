@@ -8,5 +8,13 @@ public class TestModule58 {
 		// This module runs testcases in edge browser
 
 	}
+	
+	
+	
+	public void welcomeMessage()
+	{
+		
+		System.out.println("welcome to git training");
+	}
 
 }
